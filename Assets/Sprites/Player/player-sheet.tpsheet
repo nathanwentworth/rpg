@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:46ebf2eb958df8785aae428a90eb601d:bb97329b9afa0ef95e52aca63da21c7a:7cdb55ca3504eb19b0e660055874d692$
+#
+:format=40300
+:texture=player-sheet.png
+:size=256x256
+:pivotpoints=enabled
+:borders=disabled
+
+player-back-stationary;0;181;51;75; 0.5;0.5; 0;0;0;0
+player-back-walk-1;51;181;51;75; 0.5;0.5; 0;0;0;0
+player-back-walk-2;102;181;51;75; 0.5;0.5; 0;0;0;0
+player-front-stationary;153;181;51;75; 0.5;0.5; 0;0;0;0
+player-front-walk-1;204;181;51;75; 0.5;0.5; 0;0;0;0
+player-front-walk-2;0;106;51;75; 0.5;0.5; 0;0;0;0
+player-left-stationary;51;106;51;75; 0.5;0; 0;0;0;0
+player-left-walk-1;102;106;51;75; 0.5;0; 0;0;0;0
+player-left-walk-2;153;106;51;75; 0.5;0; 0;0;0;0
+player-right-stationary;204;106;51;75; 0.5;0; 0;0;0;0
+player-right-walk-1;0;31;51;75; 0.5;0; 0;0;0;0
+player-right-walk-2;51;31;51;75; 0.5;0; 0;0;0;0
