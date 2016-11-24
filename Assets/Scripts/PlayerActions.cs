@@ -29,13 +29,13 @@ public class PlayerActions : PlayerActionSet
   {
     var playerActions = new PlayerActions();
 
-    playerActions.Fire.AddDefaultBinding( Key.Shift, Key.A );
+    playerActions.Fire.AddDefaultBinding( Key.J );
     playerActions.Fire.AddDefaultBinding( InputControlType.Action1 );
-    playerActions.Fire.AddDefaultBinding( Mouse.LeftButton );
+    // playerActions.Fire.AddDefaultBinding( Mouse.LeftButton );
 
-    playerActions.Jump.AddDefaultBinding( Key.Space );
-    playerActions.Jump.AddDefaultBinding( InputControlType.Action3 );
-    playerActions.Jump.AddDefaultBinding( InputControlType.Back );
+    // playerActions.Jump.AddDefaultBinding( Key.Space );
+    // playerActions.Jump.AddDefaultBinding( InputControlType.Action3 );
+    // playerActions.Jump.AddDefaultBinding( InputControlType.Back );
 
     playerActions.Up.AddDefaultBinding( Key.W );
     playerActions.Down.AddDefaultBinding( Key.S );

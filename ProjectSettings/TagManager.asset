@@ -47,6 +47,9 @@ TagManager:
   - name: Player
     uniqueID: 1275620939
     locked: 0
+  - name: Enemy
+    uniqueID: 642857281
+    locked: 0
   - name: Scenery
     uniqueID: 3021377931
     locked: 0

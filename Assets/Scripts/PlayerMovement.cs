@@ -22,16 +22,16 @@ public class PlayerMovement : MonoBehaviour {
   }
 
   private void FixedUpdate() {
-
-    // InputDevice controller = InputManager.ActiveDevice;
-
     dir = actions.Move;
+    Movement(dir);
 
-    Inputs(dir);
-
+    if (actions.Fire.IsPressed) {
+      int spell = Shooting.ActiveSpell;
+      Shoot(spell);
+    }
   }
 
-  void Inputs(Vector2 dir) {
+  private void Movement(Vector2 dir) {
     if (allowPlayerMovement) {
       dir = dir * moveSpeed * Time.deltaTime;
       // dir.X = dir.X * moveSpeed * Time.deltaTime;
@@ -42,6 +42,11 @@ public class PlayerMovement : MonoBehaviour {
       playerTransform.Translate(dir);
     }
   }
+
+  private void Shoot (int spell) {
+    
+  }
+
 
 
 
