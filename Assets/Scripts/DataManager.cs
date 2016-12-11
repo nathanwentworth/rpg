@@ -1,13 +1,14 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Shooting : PlayerMovement {
+public class DataManager {
 
   public enum Spells {
     None,
     Fireball,
     Ice
   }
-  public int ActiveSpell { get; set; }
+
+  public static int ActiveSpell { get; set; }
 
 }

@@ -16,7 +16,6 @@ public class PlayerActions : PlayerActionSet
   public PlayerActions()
   {
     Fire = CreatePlayerAction( "Fire" );
-    Jump = CreatePlayerAction( "Jump" );
     Left = CreatePlayerAction( "Move Left" );
     Right = CreatePlayerAction( "Move Right" );
     Up = CreatePlayerAction( "Move Up" );
