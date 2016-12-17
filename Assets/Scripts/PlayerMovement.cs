@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour {
   private PlayerActions actions;
   private Vector2 dir;
   private float spellTimer;
+  private UIManager uiManager;
 
   private List<GameObject> spellObjs;
 
@@ -30,6 +31,7 @@ public class PlayerMovement : MonoBehaviour {
   private void Start() {
     ObjectPooling(10, fireBall);
     DataManager.ActiveSpell = 0;
+    uiManager = GameObject.Find("Main-Canvas").GetComponent<UIManager>();
   }
 
   private void FixedUpdate() {
@@ -62,8 +64,15 @@ public class PlayerMovement : MonoBehaviour {
     }
   }
 
+  private void OnTriggerExit2D(Collider2D other) {
+    if (other.gameObject.tag == "NPC") {
+      uiManager.HideDialogue();
+    }
+  }
+
   private void TriggerDialogue(GameObject npc) {
-    Debug.Log("Hello there sir/madam! My name is " + npc.name + ", nice to meet you!");
+    string dialogue = "Hello there sir/madam! My name is " + npc.name + ", nice to meet you!";
+    uiManager.DisplayDialogue(dialogue);
   }
 
   private void Movement(Vector2 dir) {
