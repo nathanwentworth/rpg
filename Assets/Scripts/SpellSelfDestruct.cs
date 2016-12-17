@@ -10,9 +10,11 @@ public class SpellSelfDestruct : MonoBehaviour {
 
   private void OnCollisionEnter2D(Collision2D other) {
     if (other.gameObject.tag == "enemy") {
-      other.gameObject.SendMessage("UpdateHealth", -1);
+      ((EnemyDataManager)other.gameObject.GetComponent(typeof(EnemyDataManager))).UpdateHealth(-1);
     }
-    gameObject.SetActive(false);
+    else if (other.gameObject.tag != "player") {
+      gameObject.SetActive(false);
+    }
   }
 
   private IEnumerator SelfDestroy() {
