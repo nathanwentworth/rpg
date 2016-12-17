@@ -48,12 +48,22 @@ public class PlayerMovement : MonoBehaviour {
           }
         }
         spellTimer = 0.5f;
-      } else {
-        spellTimer -= Time.deltaTime;
       }
-    } else {
-      spellTimer -= Time.deltaTime;
     }
+
+    spellTimer -= Time.deltaTime;
+  }
+
+  private void OnTriggerStay2D(Collider2D other) {
+    if (other.gameObject.tag == "NPC") {
+      if (actions.Interact.IsPressed) {
+        TriggerDialogue(other.gameObject);
+      }
+    }
+  }
+
+  private void TriggerDialogue(GameObject npc) {
+    Debug.Log("Hello there sir/madam! My name is " + npc.name + ", nice to meet you!");
   }
 
   private void Movement(Vector2 dir) {

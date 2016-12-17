@@ -1,0 +1,1131 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"AddForce",
+				"Rigidbody2D.AddForce(force, mode)"
+			],
+			[
+				"spell",
+				"spellObjs"
+			],
+			[
+				"notiftext",
+				"notificationText"
+			],
+			[
+				"pla",
+				"playerNumber"
+			],
+			[
+				"Data",
+				"DataManager"
+			],
+			[
+				"text",
+				"textDisplayed"
+			],
+			[
+				"playnam",
+				"playerName.Length"
+			],
+			[
+				"playerna",
+				"playerName.Length"
+			],
+			[
+				"Debug",
+				"Debug.Log\t(PlayerManager.cs)"
+			],
+			[
+				"player",
+				"playerName"
+			],
+			[
+				"Hide",
+				"HideInInspector\t(CarControl.cs)"
+			],
+			[
+				"Rotat",
+				"RotateSleep"
+			],
+			[
+				"random",
+				"randomDisp"
+			],
+			[
+				"transof",
+				"transform.position\t(CarControl.cs)"
+			],
+			[
+				"Vecto",
+				"Vector3\t(CarControl.cs)"
+			],
+			[
+				"powerup",
+				"powerupName"
+			],
+			[
+				"back",
+				"backgroundGradient"
+			],
+			[
+				"I",
+				"IEnumerator"
+			],
+			[
+				"Total",
+				"TotalPlayers\t(DataManager.cs)"
+			],
+			[
+				"live",
+				"livesDisplay"
+			],
+			[
+				"rotate",
+				"rotatingModel"
+			],
+			[
+				"sync",
+				"sync.progress"
+			],
+			[
+				"Load",
+				"LoadSceneAsync"
+			],
+			[
+				"PowerupCool",
+				"PowerupCooldownTime\t(DataManager.cs)"
+			],
+			[
+				"poat",
+				"potatoDelay"
+			],
+			[
+				"part",
+				"partyDelay"
+			],
+			[
+				"Potat",
+				"PotatoDelay\t(DataManager.cs)"
+			],
+			[
+				"Part",
+				"PartyDelay\t(DataManager.cs)"
+			],
+			[
+				"Pota",
+				"PotatoDelay\t(DataManager.cs)"
+			],
+			[
+				"default",
+				"defaultColor"
+			],
+			[
+				"playern",
+				"playerNumber"
+			],
+			[
+				"Color",
+				"ColorGreen\t(DataManager.cs)"
+			],
+			[
+				"playeswi",
+				"playerSwitch.currentIndex"
+			],
+			[
+				"Dis",
+				"DisplayNameEntry"
+			],
+			[
+				"Wait",
+				"WaitForSeconds\t(HUDManager.cs)"
+			],
+			[
+				"Text",
+				"Text>().text"
+			],
+			[
+				"Get",
+				"GetComponent\t(CarControl.cs)"
+			],
+			[
+				"Inpu",
+				"InputDevice"
+			],
+			[
+				"name",
+				"nameLength"
+			],
+			[
+				"aud",
+				"audioManager\t(CarControl.cs)"
+			],
+			[
+				"Aud",
+				"AudioManager\t(CarControl.cs)"
+			],
+			[
+				"power",
+				"powerupName"
+			],
+			[
+				"Audio",
+				"AudioManager"
+			],
+			[
+				"low",
+				"lowSpeedImpacts"
+			],
+			[
+				"impac",
+				"impactSource"
+			],
+			[
+				"turn",
+				"turningMultiplier\t(CarControl.cs)"
+			],
+			[
+				"car",
+				"carControl"
+			],
+			[
+				"Rand",
+				"RandomPowerup"
+			],
+			[
+				"Check",
+				"CheckIfHighlightedButtonIsChanged"
+			],
+			[
+				"Even",
+				"EventSystem>().currentSelectedGameObject"
+			],
+			[
+				"Uni",
+				"UnityEngine.EventSystems\t(SetActiveUIButton.cs)"
+			],
+			[
+				"number",
+				"numberOfLives"
+			],
+			[
+				"defa",
+				"defaultLivesCount\t(DataManager.cs)"
+			],
+			[
+				"liv",
+				"livesDisplay"
+			],
+			[
+				"close",
+				"closestSpawn"
+			],
+			[
+				"Vec",
+				"Vector3"
+			],
+			[
+				"menu",
+				"menuIndex"
+			],
+			[
+				"slider",
+				"turnTimeSlider"
+			],
+			[
+				"turntime",
+				"turnTimeSlider"
+			],
+			[
+				"Time",
+				"Time.timeScale"
+			],
+			[
+				"WAit",
+				"WaitForSeconds"
+			],
+			[
+				"notif",
+				"notifications"
+			],
+			[
+				"wai",
+				"WaitForSeconds"
+			],
+			[
+				"not",
+				"notifText1"
+			],
+			[
+				"timer",
+				"timerBarFillAmount"
+			],
+			[
+				"Start",
+				"StartCoroutine"
+			],
+			[
+				"nof",
+				"notificationText.text"
+			],
+			[
+				"Displa",
+				"DisplayPostGameMenu"
+			],
+			[
+				"STart",
+				"StartCoroutine\t(CarControl.cs)"
+			],
+			[
+				"Sta",
+				"Start"
+			],
+			[
+				"game",
+				"gameOverPanel"
+			],
+			[
+				"over",
+				"overlayPanel"
+			],
+			[
+				"but",
+				"buttonName"
+			],
+			[
+				"selec",
+				"selectedMenu"
+			],
+			[
+				"nu",
+				"numOfPlayers"
+			],
+			[
+				"Sye",
+				"System.Collections.Generic\t(PlayerSwitching.cs)"
+			],
+			[
+				"Game",
+				"GetJoystickNames\t(PlayerSwitching.cs)"
+			],
+			[
+				"see",
+				"speedometerBarFillAmount"
+			],
+			[
+				"curr",
+				"currentPlayer"
+			],
+			[
+				"start",
+				"StartCoroutine"
+			],
+			[
+				"Switch",
+				"SwitchTimer"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"collider",
+				"colliderTarget"
+			],
+			[
+				"target",
+				"targeting"
+			],
+			[
+				"ta",
+				"tagNum"
+			],
+			[
+				"playe",
+				"PlayerFoundByRobot"
+			],
+			[
+				"is",
+				"isPaused"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"list",
+				"listElements"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"lin",
+				"linkHref"
+			],
+			[
+				"temp",
+				"tempLinkStore"
+			],
+			[
+				"link",
+				"linkFull"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"time",
+				"timeSinceStart"
+			],
+			[
+				"gameob",
+				"gameObject"
+			],
+			[
+				"ju",
+				"jumpStrength"
+			],
+			[
+				"node",
+				"nodeIndex"
+			],
+			[
+				"rotat",
+				"rotation"
+			],
+			[
+				"tr",
+				"Translate"
+			],
+			[
+				"targe",
+				"targetVector"
+			],
+			[
+				"rot",
+				"rotationSpeed"
+			],
+			[
+				"di",
+				"distanceDamping"
+			],
+			[
+				"scr",
+				"scrollHeight"
+			],
+			[
+				"rand",
+				"randColors"
+			],
+			[
+				"inner",
+				"innerHeight"
+			],
+			[
+				"STar",
+				"StartCoroutine"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/DataManager.cs",
+			"settings":
+			{
+				"buffer_size": 182,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/PlayerMovement.cs",
+			"settings":
+			{
+				"buffer_size": 1843,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/SpellSelfDestruct.cs",
+			"settings":
+			{
+				"buffer_size": 315,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/PlayerActions.cs",
+			"settings":
+			{
+				"buffer_size": 3120,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"materia",
+				"Material Theme: Activate theme"
+			],
+			[
+				"spacegra",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nathan/Documents/git/rpg/Assets",
+		"/Users/nathan/Documents/git/rpg/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/Users/nathan/Documents/git/rpg/Assets/Scripts/Shooting.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/MainMenu/AutoPlayMovie.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/MainMenu/TextColorGradient.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/MainMenu/NameEntry.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/Utility/SetAspectRatio.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/Utility/DataManager.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/Game/HUDManager.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/MainMenu/PlayerManager.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/Game/PowerUps.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/MainMenu/uiManager.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/Game/CarControl.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/DataManager.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/Game/PlayerSwitching.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/MainMenu/OptionsChange.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/NameEntry.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/Game/PlayerData.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/Game/CameraNoise.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/Game/SmoothFollow.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/AudioManager.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/SetActiveUIButton.cs",
+		"/Users/nathan/Documents/git/children-test/Assets/scripts/SecurityCameraLook.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/PlayerManager.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/HUDManager.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/uiManager.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/InputModuleActionAdapter.cs",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scripts/PlayerList.cs",
+		"/Users/nathan/Documents/git/friender-bender/friender-bender.sublime-project",
+		"/Users/nathan/Documents/www/nathanwentworth/index.html",
+		"/Users/nathan/Documents/git/friender-bender/Assets/scenes/test-ui.unity",
+		"/Users/nathan/Dropbox/school/notes/social-media/2016-10-04.md",
+		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/nathan/Documents/git/friender-bender/working-assets/ui-overview.ai",
+		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/nathan/Dropbox/school/game-programming/base_code.html",
+		"/Users/nathan/Dropbox/school/game-programming/fruit_from_trees.html",
+		"/Users/nathan/Documents/git/sabotage-rally/working-assets/code-best-practices.md",
+		"/Users/nathan/Downloads/id_rsa.pub",
+		"/Users/nathan/Documents/git/sabotage-rally/docs/index.html",
+		"/Users/nathan/Documents/git/sabotage-rally/docs/style.css",
+		"/Users/nathan/Documents/git/sabotage-rally/README.md",
+		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nathan/Documents/git/sabotage-rally/.gitignore",
+		"/Users/nathan/Documents/git/sabotage-rally/blank",
+		"/Users/nathan/Documents/git/children-test/.git/config",
+		"/Users/nathan/Documents/git/children-test/.gitignore",
+		"/Users/nathan/Documents/git/children-test/Assets/scripts/keyDoorActions.cs",
+		"/Users/nathan/Documents/git/children-test/Assets/scripts/robotPathing.cs",
+		"/Users/nathan/Documents/www/connorbotts/connorbotts.sublime-project",
+		"/Users/nathan/Documents/git/children-test/Assets/scripts/PlayerMovement.cs",
+		"/Users/nathan/Documents/git/children-test/Assets/scripts/gameManager.cs",
+		"/Users/nathan/Documents/git/children-test/Assets/scripts/pauseFunctions.cs",
+		"/Users/nathan/Documents/git/children-test/Assets/scripts/cursorLock.cs",
+		"/Users/nathan/Documents/www/connorbotts/about/index.html",
+		"/Users/nathan/Documents/www/connorbotts/all-work/index.html",
+		"/Users/nathan/Dropbox/web-files/old-projects/startpagetableV1.html",
+		"/Users/nathan/.config/livestreamer/config",
+		"/Applications/mpv.app/Contents/MacOS/mpv",
+		"/Users/nathan/Documents/git/children-test/Assets/scripts/smoothRotate.cs",
+		"/Users/nathan/Documents/git/children-test/Assets/scripts/CameraAvoid.cs",
+		"/Users/nathan/Documents/www/texteditor/wwwroot/scripts.js",
+		"/Users/nathan/Documents/www/boilerplate/wwwroot/robots.txt",
+		"/Users/nathan/Documents/git/motu/Assets/Scripts/Main Menu/MainMenuManager.cs"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			"/Users/nathan/Documents/git/friender-bender/Assets/scripts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"obj",
+			"timer",
+			"shoot",
+			"bots",
+			"CheckIfCarIsStopped",
+			"notificationTimer",
+			"notifTimer",
+			"overlayTimer",
+			"overlayPanel",
+			"OverlayRotate",
+			"DisplayOverlayText(\"\"",
+			"hudManager",
+			"DisplayOverlayText(\"\"",
+			"hudManager.DisplayOverlayText(\"\")",
+			"displayoverlay",
+			"displayoverlaytext(",
+			"starting",
+			"enterchar",
+			"playerName",
+			"playerNumber",
+			"playerName",
+			"1].playerName",
+			"playername",
+			"sprite",
+			"controllerIcons",
+			"evaluate",
+			"textdisplayed = true",
+			"textdisplayed",
+			"action2",
+			"playerManager",
+			"hidetext",
+			"shield",
+			"playaudio",
+			"play",
+			"cam",
+			"inputsleep",
+			"DisplayModeDescriptions",
+			"active",
+			"player",
+			"localPosition",
+			"position",
+			"mph",
+			"Pause",
+			"paused",
+			"StartCoroutine",
+			"displaypowerup",
+			"displaypower",
+			"powerup",
+			"display",
+			"eval",
+			"pause",
+			"updatelivesdisplay",
+			"updatelive",
+			"displaypower",
+			"powerup-",
+			"player",
+			"livesdis",
+			"lives",
+			"heart",
+			"menuindex",
+			"getcurr",
+			"getcurre",
+			"trackmo",
+			"carModels",
+			"rotatemodel",
+			"player",
+			"elmini",
+			"fill",
+			"track",
+			"loadscene",
+			"load",
+			"partyDelaySlider.value = DataManager.PartyDelay;\n",
+			"partyDelay",
+			"powerupCooldownTime",
+			"cooldown",
+			"out",
+			"ValChange",
+			", out float dataVal, Text dispText",
+			"ref ",
+			"turnTime",
+			"passing",
+			"passTime",
+			"passtime",
+			"ValChange",
+			"TurnTimeSet",
+			"AddListener",
+			"PartyDelay",
+			"potato",
+			"turnTime",
+			"TurnTime",
+			"turnTime",
+			"potato",
+			"turnTime",
+			"enqueue",
+			"displayoverlaytext(",
+			"displayoverlaytext",
+			"action2",
+			"f",
+			"1f",
+			"Color ",
+			"wantedRotationAngle",
+			"cam",
+			"currentIndex",
+			"name",
+			"enqueue",
+			"[playerNumber - 1]",
+			"player.PlayerNumber",
+			"player.Controller",
+			"currentindex",
+			"truecurrent",
+			"mode",
+			"controller.",
+			"PlayerName",
+			"playernu",
+			"lowSpeedImpacts[DataManager.RandomVal(0,1)]",
+			"StartCoroutine",
+			"PowerUpType",
+			"ScreenDistraction",
+			"Camera.main.gameObject",
+			"ReversedTurning",
+			"AddSecondsToTurn",
+			"boost",
+			"passing",
+			"potato",
+			"damage",
+			"debug",
+			"cool",
+			"GetGroundHit(out hit)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"DataManager.Instance.",
+			"data.Instance."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/DataManager.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/PlayerMovement.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1321,
+								1321
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 469.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/Scripts/SpellSelfDestruct.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Assets/Scripts/PlayerActions.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1603,
+								1603
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 134.0
+	},
+	"pinned_build_system": "",
+	"project": "rpg.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"data",
+				"scripts/DataManager.cs"
+			],
+			[
+				"name",
+				"scripts/MainMenu/NameEntry.cs"
+			],
+			[
+				"carcon",
+				"scripts/Game/CarControl.cs"
+			],
+			[
+				"playerd",
+				"scripts/Game/PlayerData.cs"
+			],
+			[
+				"hud",
+				"scripts/Game/HUDManager.cs"
+			],
+			[
+				"powerup",
+				"scripts/Game/PowerUps.cs"
+			],
+			[
+				"playerswi",
+				"scripts/Game/PlayerSwitching.cs"
+			],
+			[
+				"playerda",
+				"scripts/Game/PlayerData.cs"
+			],
+			[
+				"audi",
+				"scripts/AudioManager.cs"
+			],
+			[
+				"switch",
+				"scripts/Game/PlayerSwitching.cs"
+			],
+			[
+				"player",
+				"scripts/Game/PlayerSwitching.cs"
+			],
+			[
+				"power",
+				"scripts/Game/PowerUps.cs"
+			],
+			[
+				"ui",
+				"scripts/MainMenu/uiManager.cs"
+			],
+			[
+				"opt",
+				"scripts/MainMenu/OptionsChange.cs"
+			],
+			[
+				"uima",
+				"scripts/MainMenu/uiManager.cs"
+			],
+			[
+				"datama",
+				"scripts/DataManager.cs"
+			],
+			[
+				"iot",
+				"scripts/MainMenu/OptionsChange.cs"
+			],
+			[
+				"car",
+				"scripts/Game/CarControl.cs"
+			],
+			[
+				"playt",
+				"scripts/Game/PlayerSwitching.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"chi",
+				"~/Documents/git/children-test/children.sublime-project"
+			],
+			[
+				"notes",
+				"~/Dropbox/notes/notes.sublime-project"
+			],
+			[
+				"friender",
+				"~/Documents/git/friender-bender/sabotage-rally.sublime-workspace"
+			],
+			[
+				"",
+				"~/Documents/git/fps-walljump/fps-walljump.sublime-project"
+			],
+			[
+				"fps",
+				"~/Documents/git/fps-walljump/fps-walljump.sublime-project"
+			],
+			[
+				"connor",
+				"~/Documents/www/connorbotts/connorbotts.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

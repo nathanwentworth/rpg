@@ -8,6 +8,13 @@ public class SpellSelfDestruct : MonoBehaviour {
     StartCoroutine("SelfDestroy");
 	}
 
+  private void OnCollisionEnter2D(Collision2D other) {
+    if (other.gameObject.tag == "enemy") {
+      other.gameObject.SendMessage("UpdateHealth", -1);
+    }
+    gameObject.SetActive(false);
+  }
+
   private IEnumerator SelfDestroy() {
     yield return new WaitForSeconds(2f);
     gameObject.SetActive(false);

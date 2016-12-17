@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerActions : PlayerActionSet
 {
   public PlayerAction Fire;
+  public PlayerAction Interact;
   public PlayerAction Jump;
   public PlayerAction Left;
   public PlayerAction Right;
@@ -16,6 +17,7 @@ public class PlayerActions : PlayerActionSet
   public PlayerActions()
   {
     Fire = CreatePlayerAction( "Fire" );
+    Interact = CreatePlayerAction( "Interact" );
     Left = CreatePlayerAction( "Move Left" );
     Right = CreatePlayerAction( "Move Right" );
     Up = CreatePlayerAction( "Move Up" );
@@ -30,6 +32,10 @@ public class PlayerActions : PlayerActionSet
 
     playerActions.Fire.AddDefaultBinding( Key.J );
     playerActions.Fire.AddDefaultBinding( InputControlType.Action1 );
+
+    playerActions.Interact.AddDefaultBinding( Key.K );
+    playerActions.Interact.AddDefaultBinding( InputControlType.Action2 );
+
     // playerActions.Fire.AddDefaultBinding( Mouse.LeftButton );
 
     // playerActions.Jump.AddDefaultBinding( Key.Space );

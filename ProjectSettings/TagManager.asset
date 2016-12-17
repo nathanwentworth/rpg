@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - enemy
+  - NPC
   layers:
   - Default
   - TransparentFX
@@ -44,11 +46,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 1275620939
-    locked: 0
   - name: Enemy
     uniqueID: 642857281
+    locked: 0
+  - name: NPC
+    uniqueID: 3831879055
+    locked: 0
+  - name: Player
+    uniqueID: 1275620939
     locked: 0
   - name: Scenery
     uniqueID: 3021377931
